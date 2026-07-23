@@ -1,6 +1,6 @@
 # Hi there, I'm Diya Shivakumar 👋
 
-## Computer Science Engineering Student | Full Stack Developer | AI Enthusiast | Open Source Contributor
+## Computer Science Engineering Student | Full Stack Developer Intern | Open Source Contributor
 
 I'm a Computer Science Engineering student at **BMS College of Engineering (BMSCE), Bengaluru** passionate about building real-world software that combines modern web technologies with AI.
 
